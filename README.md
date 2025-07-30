@@ -1,5 +1,4 @@
 # Data-Analysis
-All Data Analysis Project Dump
 This is a healthcare data analytics project.
 The Dataset used has been imported from Kaggle.
 
